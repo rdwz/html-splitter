@@ -1,0 +1,17 @@
+{
+  "name": "@redwerkz/html-splitter",
+  "version": "0.0.4",
+  "description": "HTML Splitter",
+  "license": "ISC",
+  "author": "Marc Redwerkz",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "html-splitter": "index.js"
+  },
+  "repository": "rdwz/html-splitter",
+  "scripts": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
